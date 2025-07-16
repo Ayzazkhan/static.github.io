@@ -1,0 +1,10 @@
+Client2_GroupKickboxing.png
+Client2_GroupPilates.png
+Client2_GroupYoga.png
+Client2_IndividualKickboxing.png
+Client2_IndividualPilates.png
+Client2_IndividualYoga.png
+Client2_LogoPalette2_634E99.png
+Client2_TeeShirt.png
+Client2_WaterBottle.png
+Client2_YogaMat.png
